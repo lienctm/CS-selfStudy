@@ -1,0 +1,5 @@
+Python is a most popular programming language.
+Python can be used on server to create web applications.
+Python runs on an interpreter system, meaning that code can be executed as soon as it is written.
+Python can connect to database systems. It can also read and modify files.
+Python can be used to handle big data and perform complex mathematics.
