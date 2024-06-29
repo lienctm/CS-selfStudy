@@ -21,8 +21,7 @@ class TwoSum {
         for (int i = 0; i < myArray.length - 1; i++) {
             for (int j = i + 1; j < myArray.length; j++) {
                 if (myArray[i] + myArray[j] == target) {
-                    // System.out.println("[ " + myArray[i] + ", " + myArray[j] + "]");
-                    return new int[] { myArray[i], myArray[j] };
+                    return new int[] { i, j };
                 }
             }
         }
