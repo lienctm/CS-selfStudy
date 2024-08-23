@@ -1,0 +1,20 @@
+***/ how to download youtube on terminal /***
+yt-dlp [youtube] // mp4
+yt-dlp -x [youtube] // m4a
+yt-dlp -x --audio-format mp3 [youtube] // mp3
+
+***/ how to play audio sound on terminal /***
+mpv --no-video --loop-file=inf [youtube]
+
+***/ allow full dish acces to terminal macOS /***
+1. System Preferences
+2. Enabling remote SSH login on Mac OS X
+   Sharing -> Remote Logind
+   ifconfig : see ip address
+3. Security & Privacy
+4. Full Disk Access
+5. SCP(secure copy) transfer a whole directory
+   scp -r [source-directory] [username]@[destination_host]:[destination_directory]
+   // scp -r lien@192.168.86.78:/Users/....
+
+

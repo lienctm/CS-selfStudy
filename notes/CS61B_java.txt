@@ -1,0 +1,17 @@
+1. Create a new file:  vi fileName.txt
+   Open file: vim fileName.txt
+
+2. Run java with command-line arguments:
+   javac fileName
+   java folderName.fileName args
+
+3. read a text file in terminal:
+   more fileName.txt
+
+4. inheritance:
+
+   implements:
+
+   overload: methods with the same name but different signatures.
+
+   override: subclass has a method with the exact same signature as    in the superclass.
